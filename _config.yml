@@ -2,7 +2,7 @@
 menu:
   Home: /
   My Works: /works
-  About: /about/resume.pdf
+  About: /about/index.md
   #Tags: /tags
 
 rss: /atom.xml
